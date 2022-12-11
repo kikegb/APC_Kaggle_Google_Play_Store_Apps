@@ -1,4 +1,4 @@
 
-.ipynb_checkpoints/Kaggle-checkpoint.ipynb
-*.csv
+.ipynb_checkpoints/
+data/
 license.txt
